@@ -17,4 +17,19 @@
 4. Скан инвертарей игроков выдаёт exception. Я не знаю, криворук ли я, или же как-то лаунчер сашка/моды вносят изменения - но работало только на ванилле.
 5. БЭКАП МИРА!!!
 
-Скрипт модифицировать, копировать, распостранять можно свободно, просто оставьте ссылку на мой гитхаб и моё имя. Свободу открытому ПО!
+Скрипт модифицировать, копировать, распостранять можно свободно, просто оставьте ссылку на мой гитхаб и моё имя. Полезное должно быть открытым.
+
+Пример вывода скрипта:
+{
+ "title": "Notes on an Icy Cave",
+ "author": "A Forgotten Explorer",
+ "pages": [
+  "§8[[An explorer's notebook, covered in frost]]§0\n\nThe blizzard surrounding these snowy lands is unceasing. This is no ordinary snowfall--this is a magical phenomenon. I will have to conduct experiments to find",
+  "what is capable of causing such an effect.\n\n§8[[Next entry]]§0\n\nAt the center of the dark forest, where the leaves turn red and the grass dies, there is a wooden tower. The tops of the tower are affixed with",
+  "structures acting as antennae. The antennae are not the source of the snowfall, but serve merely to boost the power of the curse causing it.\n\nA blizzard this intense must be caused by a powerful creature, most likely found",
+  "near the top of the dark forest tower. Stop the creature, and the blizzard will fade."
+ ],
+ "location": "Chest:r.4.12.mca[Int(2403),Int(63),Int(6211)]",
+ "count": 1,
+ "found_at": "2025-10-25T14:53:00"
+}
